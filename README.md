@@ -31,6 +31,8 @@ This is an AI-powered menstrual health intelligence platform designed to help in
 - **ML Engine**: [Scikit-learn](https://scikit-learn.org/) / Joblib
 - **Utilities**: Email notifications and secure password hashing.
 
+###Dataset
+- **Kaggle ** - https://www.kaggle.com/datasets/shreyasvedpathak/pcos-dataset
 ---
 
 ## 📦 Installation & Setup
